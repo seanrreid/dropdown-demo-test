@@ -1,3 +1,4 @@
 archive
 node_module
 .idea/*
+.DS_Store
