@@ -61,7 +61,6 @@ ul li {
 }
 
 #dropdownMenu {
-    display: none;
     font-size: .85em;
     position: absolute;
 }
@@ -86,4 +85,12 @@ ul li {
     display: block;
     padding: 8px;
     width: 100%;
+}
+
+.hiddenMenu {
+    display: none;
+}
+
+.visibleMenu {
+    display: block;
 }
